@@ -1,3 +1,4 @@
 Name: RynierCadeAchas
 Course: IT21A
-Activity: Basics of Git and Github 
+Activity: Basics of Git and Github
+ 
